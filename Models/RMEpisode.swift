@@ -14,5 +14,5 @@ struct RMEpisode: Codable {
     let episode: String
     let characters: [String]
     let url: String
-    let created: String
+    let created: String 
 }
